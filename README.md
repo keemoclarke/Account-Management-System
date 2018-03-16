@@ -1,5 +1,5 @@
 # Account-Management-System
-This was a project given in one of my classes at Rutgers University. I was asked to create an Account management system that allows the user to manage stock accounts and bank accounts. 
+This was a project given in one of my classes at Rutgers University. I was asked to create an Account management system that allows the user to manage a stock account and a bank portfolio. 
 
 A quick overview of what this program does:
 
